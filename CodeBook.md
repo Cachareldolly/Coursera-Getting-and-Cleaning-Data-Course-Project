@@ -1,6 +1,7 @@
 This is the analysis of 30 people. To identify them we use 
 
 subject : each subject is identified by a number
+
 Activity_Labels : each subject is analysed while they are WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING
                   and LAYING
 
